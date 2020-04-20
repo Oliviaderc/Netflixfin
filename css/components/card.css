@@ -1,0 +1,89 @@
+.card{
+	background:black;
+	padding: 70px 45px;
+	width: 52%;
+	height: 100%;
+	border-radius: 4px;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	margin:20px 0px;
+	margin-bottom: 50px;
+}
+
+.card h1{
+	color:white;
+	text-align: left;
+	justify-content: space-between; 
+	display: flex;
+	margin-left: 30px;
+	display: flex;
+	font-size:40px;
+}
+
+.card h2 {
+	color:white;
+	text-align: left;
+	justify-content: space-between; 
+	margin-left: 30px;
+	font-weight: lighter;
+	display: flex;
+	font-size:25px;
+}
+
+.miniST {
+	background-color: black;
+    height: 100px;
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    position: relative;
+    margin-left:50px;
+}
+
+.STecriture {
+	margin-left: 50px;
+    margin: -80px 10px 10px 150px;
+    position: relative;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.Téléchargement{
+	margin-left: 50px;
+    margin: 0px 10px 10px 150px;
+    position: relative;
+    color: #0071eb;
+}
+
+.gif {
+	margin: -70px 10px 10px 400px;
+    position: relative;
+}
+
+.devicesvideo{
+	margin: -25% 0 0 775px;
+	width: 100%;
+    height: 100%;
+    max-width: 63%;
+    max-height: 47%;
+    position: absolute;
+}
+
+.imgtv {
+	position: relative;
+    top: -205px;
+    left: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.écrantv {
+	top: -523px;
+    left: 110%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+

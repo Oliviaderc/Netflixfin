@@ -1,0 +1,57 @@
+
+.mailbox {
+	flex-direction: row;
+	margin: 0 auto;
+
+
+}
+
+.écriture {
+	text-align: center;
+	font-size: 16px;
+	position: center;
+	top: 50%;
+	color:#8c8c8c;
+	position: absolute;
+    text-align: left;
+    left: 10px;
+    top: 30%;
+
+}
+
+.partiegauchebox {
+	margin: 10px auto;
+	max-width: 500px;
+	position:relative; 
+	padding: 0;
+	height: 48px;
+
+}
+input {
+	background: white; 
+	padding: 10px 10px 0;
+	width:100%;
+	min-width: 450px;
+	height: 30px; 
+}
+
+ul {
+	vertical-align: top;
+	flex: 1 0 auto;
+	text-align: right;
+	padding: 0;
+	margin:0;
+}
+
+li {
+	list-style: none;
+	margin-left: 0;
+	margin-bottom: 10px;
+
+}
+
+label {
+	cursor: default;
+	list-style: none;
+}
+

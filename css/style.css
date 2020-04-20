@@ -1,0 +1,57 @@
+@import url("<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/ourstory.css");
+@import url("components/banner.css");
+@import url("components/images.css");
+@import url("components/card.css");
+@import url("components/mailbox.css");
+@import url("components/button.css");
+@import url("components/écrantv.css");
+@import url("components/faq.css");
+@import url("components/centreaide.css");
+
+body {
+	min-width: 320px;
+    margin: 0;
+	font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    background-color: black;
+}
+
+h1 {
+    max-width: 640px;
+    margin: 0px auto;
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+h2 {
+	max-width: 640px;
+    margin: 0px auto;
+    font-size: 27px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+ 
+h3 {
+
+	max-width: 450px;
+    margin: 0px auto;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    padding: 0 5%;
+    font-family: 'Roboto', sans-serif;
+    
+}

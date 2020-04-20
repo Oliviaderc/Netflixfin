@@ -1,0 +1,53 @@
+.sousrubrique {
+	min-width: 190px;
+    width: 100%;
+    margin-top: 80px;
+    padding-bottom: 20px;
+    font-size: 1em;
+    color: #757575;
+    position: relative;
+    min-width: 320px;
+    margin: 0;
+
+}
+
+a.fin {
+	color: #757575;
+
+}
+
+
+.sousrubrique a {
+	text-decoration: none;
+	color: #757575;
+	text-align: right;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+
+ul.finrub {
+padding: 0;
+margin: 0;
+text-align: left;
+}
+
+
+.sousrubrique {
+	column-count: 4;
+	margin-top: 20px;
+	margin-left: 40%;
+	width: 700px;
+}
+
+select {
+	background-color: #000000;
+background-image: none;
+border: 1px solid #333333;
+color: #999;
+font-size: 16px;
+padding: 12px;
+}
+
+.dernierbtn {
+	margin-left: 40%;
+}

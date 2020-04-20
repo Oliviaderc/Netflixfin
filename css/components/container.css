@@ -1,0 +1,53 @@
+.container {
+ 	width: 600px;
+ 	margin: 50px auto;
+ 	color: black;
+ 	width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  border-bottom: 8px solid #222;
+  padding: 50px 0%;
+  margin-bottom: 0;
+  background: transparent;
+  color: white;
+  flex-wrap: wrap;
+	
+ }
+
+ @media (max-width: 960px) {
+  .card {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .card {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .card {
+    width: 300px;
+  }
+}
+
+ 
+ @media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.tv-container {
+display: block;
+}
+

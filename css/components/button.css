@@ -1,0 +1,22 @@
+.button a {
+    background-color: #e50914;
+    color: white;
+    border-radius: 3px;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-right: 45%;
+    width: auto;
+    letter-spacing: .1px;
+}
+
+.buttonwritting {
+    max-width: 450px;
+    margin: 0px auto;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    padding: 0 5%;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
